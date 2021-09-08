@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2AC5F620-ADE7-0E51-95C8-1DD126B599F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/MainMenu.cs" Line="9" Column="5" />
+      <File FileName="Assets/CubeMovement.cs" />
+      <File FileName="Assets/TextScript.cs" />
+      <File FileName="Assets/MultiplayerMenuScript.cs" Line="40" Column="47" />
+      <File FileName="Assets/GameManager.cs" Line="72" Column="49" />
+      <File FileName="Assets/Block.cs" />
+      <File FileName="Assets/BlockGenerator.cs" />
+      <File FileName="Assets/SingleplayerMenuScript.cs" />
+      <File FileName="Assets/BackButton.cs" Line="4" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheBlocker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0aad9a04-2850-4f89-88d9-b7c81ce91cf6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
